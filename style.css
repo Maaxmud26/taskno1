@@ -1,0 +1,110 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+.salam{
+margin: auto;
+text-decoration: none;
+margin-right: 1rem;
+color: rgba(255, 255, 255, 0.55);
+
+}
+#first{
+    background-color: #212529;
+padding: 1.3rem;
+text-align: right;
+}
+#second{
+    text-align: center;
+    background-color: #0D6EFD;
+    padding: 8rem;
+}
+#main{
+    color: #fff;
+    font-size: calc(1.375rem + 1.5vw);
+    margin: 0px, 0px ,8px;
+    font-weight: bolder;
+}
+#main2{
+    color: #fff;
+    font-size: 1.25rem;
+    margin: 0px, 0px ,16px;
+    margin-bottom: 1rem;
+}
+#btn{
+    color: #000;
+    background-color: #f8f9fa;
+    border-color: #f8f9fa;
+    text-decoration: none;
+   padding: 0.5rem 1rem;
+   font-size: 1.25rem;
+   border-radius: 0.3rem;
+
+}
+#about{
+  color: #212529;
+  margin-top: 0;
+  margin-bottom: 0.5rem;
+  font-weight:bold;
+  line-height: 1.2;
+ margin-left: 300px;
+ font-size: calc(1.325rem + 0.9vw);
+  
+}
+#third{
+  padding-top: 9rem;
+    padding-bottom: 9rem;
+}
+.text{
+    font-size: 1.25rem;
+    margin-bottom: 1rem;
+    text-align : justify;
+    margin-left: 300px;
+    width: 50%;
+    
+  
+}
+.b{
+    margin-left: 330px;
+}
+#four{
+    background-color: rgba(var(--bs-light-rgb), var(--bs-bg-opacity))
+}
+#Service{
+    color: #212529;
+    margin-top: 0;
+    margin-bottom: 0.5rem;
+    font-weight:bold;
+    line-height: 1.2;
+   margin-left: 300px;
+   font-size: calc(1.325rem + 0.9vw);
+}
+#Contact{
+    color: #212529;
+    margin-top: 0;
+    margin-bottom: 0.5rem;
+    font-weight:bold;
+    line-height: 1.2;
+   margin-left: 300px;
+   font-size: calc(1.325rem + 0.9vw);
+}
+#four{
+    padding-top: 8rem;
+    padding-bottom: 16rem;
+    background-color: #F8F9FA;
+}
+#five{
+    padding-top: 8rem; 
+}
+#Six{
+    background-color: #212529;
+    padding: 3rem;
+    text-align: right;
+}
+#copyright{
+    text-align: center;
+    font-size: 18px;
+    color: #fff;
+
+}
